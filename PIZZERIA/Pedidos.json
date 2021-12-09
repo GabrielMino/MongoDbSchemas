@@ -1,0 +1,20 @@
+{
+  "_id": 1,
+  "cliente_id": 1,
+  "tienda_id": 1,
+  "fecha": "2020-07-04 16:25",
+  "tipo": "domicilio",
+  "precio": 32,
+  "fecha_entrega": "2020-07-04 16:45",
+  "repartidor": "damian",
+  "productos": [
+    {
+      "producto_id": 1,
+      "cantidad": 1
+    },
+    {
+      "producto_id": 2,
+      "cantidad": 4
+    }
+  ]
+}
