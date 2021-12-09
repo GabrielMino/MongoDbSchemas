@@ -1,1 +1,8 @@
-
+db.proveedor.insert({"_id":1,"nombre":"GAFASSA","telefono":"666-999-333","fax":"93-554-8654","NIF":"45.612.3123",
+						"direccion":{   "calle":"provenza",
+                             "numero": 12,
+                              "piso":2,
+                              "puerta":"b",
+                              "cp": "08015",
+                              "ciudad":"Barcelona",
+                              "pais":"España"}})
