@@ -1,0 +1,3 @@
+{"_id":1,"nombre":"gabriel","cp":"08013","email":"gabriel@gmail.com","fecha_registro":"2021-04-06",
+  "compras" : [ {"vendendor":"jorge","gafas_id":1},
+	              {"vendedor": "susana","gafas_id":2}]}
