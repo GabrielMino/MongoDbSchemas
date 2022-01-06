@@ -1,0 +1,18 @@
+[{
+  "_id": 1,
+  "_id_user": 2,
+  "text": "Well done!",
+  "time": "2021-08-2021 10:50",
+  "info_comments_likes": [
+    {
+      "_id_user_like": 1,
+      "time": "2021-08-2021 11:45"
+    }
+  ],
+  "info_comment_dislikes": [
+    {
+      "_id_user_dislike": 2,
+      "time": "2021-08-2021 11:50"
+    }
+  ]
+}]

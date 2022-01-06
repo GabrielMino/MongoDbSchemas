@@ -1,0 +1,12 @@
+[{
+  "_id": 1,
+  "_id_user": 1,
+  "name": "playlist1",
+  "dateofcreation": "2021-08-2021 09:51",
+  "status": "private",
+  "videos": [
+    {
+      "_id_video": 1
+    }
+  ]
+}]

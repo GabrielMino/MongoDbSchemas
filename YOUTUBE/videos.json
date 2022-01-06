@@ -1,0 +1,37 @@
+[{
+  "_id": 1,
+  "_id_user": 1,
+  "dateofcreation": "2021-07-2021 09:50",
+  "title": "Hola Mundo in JAVA",
+  "description": "The video try to explain how to get started in java",
+  "size": "320 MB",
+  "name": "java1",
+  "duration": "1 minute and 35 seconds",
+  "thumbnail": "http://www.javatutorial.com/java/java1.html",
+  "numberofplays": 0,
+  "likes": 0,
+  "dislikes": 0,
+  "estado": "public",
+  "label": [
+    {
+      "_id_label": 0,
+      "label_name": "course"
+    },
+    {
+      "id_label": 1,
+      "label_name": "java"
+    }
+  ],
+  "likes_info": [
+    {
+      "_id_user_like": 1,
+      "time": "2021-08-2021 09:45"
+    }
+  ],
+  "dislikes_info": [
+    {
+      "_id_user_dislike": 2,
+      "time": "2021-08-2021 09:50"
+    }
+  ]
+}]

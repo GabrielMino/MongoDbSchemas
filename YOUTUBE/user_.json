@@ -1,0 +1,15 @@
+[{
+  "_id": 1,
+  "email": "gabriel@gmail.com",
+  "password": "gabriel123",
+  "user_name": "gabriel",
+  "dob": "1992-06-15",
+  "sex": "M",
+  "country": "spain",
+  "zipcode": "08025",
+  "create_chanel": 1,
+  "suscribed_chanel": [
+    1
+  ],
+  "playlist": 1
+}]

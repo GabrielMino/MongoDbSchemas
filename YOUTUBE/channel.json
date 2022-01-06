@@ -1,0 +1,17 @@
+[{
+  "_id": 1,
+  "_id_user": 1,
+  "name": "Intro to Java",
+  "description": "The channel shows an introduction to JAVA, and has some exercises in order to get started.",
+  "dateofcreation": "2021-11-07 12:00",
+  "users_suscribed": [
+    {
+      "_id_user": 2
+    }
+  ],
+  "videos": [
+    {
+      "_id_video": 1
+    }
+  ]
+}]
